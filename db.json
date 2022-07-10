@@ -1,18 +1,113 @@
 {
-    "superheroes": [{
-            "id": 1,
-            "name": "Batman",
-            "alterEgo": "Bruce Wayne"
-        },
-        {
-            "id": 2,
-            "name": "Superman",
-            "alterEgo": "Clark Kent"
-        },
-        {
-            "id": 3,
-            "name": "Wonder Woman",
-            "alterEgo": "Princess Diana"
-        }
-    ]
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Ho",
+      "alterEgo": "Front"
+    },
+    {
+      "id": 2,
+      "name": "Ngoc",
+      "alterEgo": "Endddd"
+    },
+    {
+      "id": 3,
+      "name": "Thuy",
+      "alterEgo": "Developer"
+    },
+    {
+      "name": "qư",
+      "alterEgo": "qqq",
+      "id": 4
+    },
+    {
+      "name": "Thuy",
+      "alterEgo": "222",
+      "id": 5
+    },
+    {
+      "name": "Thuyyyyyy",
+      "alterEgo": "222",
+      "id": 6
+    },
+    {
+      "name": "Frontend",
+      "alterEgo": "222",
+      "id": 7
+    },
+    {
+      "name": "Baccjend",
+      "alterEgo": "222",
+      "id": 8
+    },
+    {
+      "name": "Backend",
+      "alterEgo": "222",
+      "id": 9
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Cristiano Ronaldo"
+    },
+    {
+      "id": 2,
+      "name": "Lionel Messi"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jr"
+    }
+  ],
+  "users": [
+    {
+      "id": "hongocthuyy222@gmail.com",
+      "channelId": "thuyy222"
+    }
+  ],
+  "channels": [
+    {
+      "id": "thuyy222",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
 }
